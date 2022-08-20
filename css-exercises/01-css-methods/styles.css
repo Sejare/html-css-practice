@@ -1,0 +1,15 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: red
+
+}
+
+div {
+    font-size: 32px;
+  }
+
+.center {
+    text-align: center;
+}
